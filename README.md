@@ -63,7 +63,7 @@
         <i>Database Design & Optimization</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/><br/>
+        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"/><br/>
         <b>🎨 Frontend Development</b><br/>
         <i>Angular Expertise</i><br/>
         <i>Responsive UI/UX</i><br/>
