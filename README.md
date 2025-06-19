@@ -32,16 +32,6 @@
 
 ---
 
-## 🌟 **Ma Vision & Philosophie**
-
-> *"Le code n'est pas juste une suite d'instructions, c'est l'art de transformer des idées en solutions qui impactent positivement la vie des gens."*
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Innovation GIF"/>
-</div>
-
----
-
 ## 💫 À Propos de Moi
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
