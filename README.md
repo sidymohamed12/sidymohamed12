@@ -157,14 +157,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidymohamed12&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidymohamed12&theme=react&hide_border=true&background=0D1117"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sidymohamed12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
   
   <!-- Graphique de contribution -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidymohamed12&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=6366F1&point=8B5CF6&area=true&hide_border=false" alt="Contribution Graph" width="100%" />
   
+  <img src="https://github-profile-trophy.vercel.app/?username=sidymohamed12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ### 📈 **Métriques de Performance**
@@ -187,7 +185,9 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidymohamed12&label=Visiteurs%20du%20Profil&color=3B82F6&style=for-the-badge&logo=github" alt="Profile Views"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=sidymohamed12&color=667eea&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
+[![GitHub stars](https://img.shields.io/github/stars/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
   
   ⭐ **N'hésitez pas à explorer mes repositories et à me contacter pour des collaborations passionnantes !**
   
