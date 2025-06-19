@@ -189,15 +189,7 @@
 
 **SenDev Vision** - *Transforming ideas into digital reality*
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=sidymohamed12&color=667eea&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
-[![GitHub stars](https://img.shields.io/github/stars/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
-
 *"Toujours prêt pour de nouveaux défis et collaborations passionnantes !"* ✨
-
-</div>
 
 ---
 
