@@ -45,30 +45,8 @@
       <img src="https://img.shields.io/badge/📱_Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Téléphone"/>
     </a>
   </p>
-
-  
-  <!-- Statistiques GitHub animées -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sidymohamed12&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=6366F1&text_color=ffffff&border_color=3B82F6&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidymohamed12&theme=tokyonight&background=0D1117&border=3B82F6&stroke=3B82F6&ring=6366F1&fire=8B5CF6&currStreakLabel=3B82F6&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="49%" />
   
 </div>
-
----
-
-## 💫 À Propos de Moi
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-🎓 **Diplômé en Génie Logiciel** avec une passion ardente pour l'innovation technologique
-
-👨🏾‍💻 **Développeur Full-Stack** spécialisé dans la création d'applications web modernes
-
-💼 **Cofondateur de SenDev Vision** - Transforming ideas into digital reality
-
-🌟 **Vision** : "Le code n'est pas juste une suite d'instructions, c'est l'art de transformer des idées en solutions qui impactent positivement la vie des gens."
-
-<br clear="both"/>
 
 ---
 
@@ -185,7 +163,8 @@
 
 ---
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=sidymohamed12&color=667eea&style=flat-square&label=Profile+Views)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sidymohamed12&color=667eea&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
 [![GitHub stars](https://img.shields.io/github/stars/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
   
