@@ -27,23 +27,6 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+Passionné;Cofondateur+SenDev+Vision;Innovation+%26+Excellence)
   
-  ### 🌐 **Mes Réseaux & Contacts**
-  
-  <p>
-    <a href="https://sms-12-portfolio.onrender.com" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sidy-mohamed-saizonou-4655b4262" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:mohamedsaizonou86@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-    </a>
-    <a href="https://wa.me/+221761823698" target="_blank">
-      <img src="https://img.shields.io/badge/📱_Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Téléphone"/>
-    </a>
-  </p>
-  
 </div>
 
 ---
@@ -185,7 +168,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-667eea?style=for-the-badge&logoColor=white)](https://sms-12-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidy-mohamed-saizonou-4655b4262)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsaizonou86@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221761823698)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](href="https://wa.me/+221761823698)
 
 **SenDev Vision** - *Transforming ideas into digital reality*
 
