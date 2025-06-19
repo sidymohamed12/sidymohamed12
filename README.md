@@ -169,45 +169,6 @@
   </table>
 </div>
 
-
-
----
-
-## 📞 **Connectons-nous !**
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300" alt="Contact GIF"/>
-  
-  ### 🌐 **Mes Réseaux & Contacts**
-  
-  <p>
-    <a href="https://sms-12-portfolio.onrender.com" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sidy-mohamed-saizonou-4655b4262" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:mohamedsaizonou86@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-    </a>
-    <a href="tel:+221761823698">
-      <img src="https://img.shields.io/badge/📱_Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Téléphone"/>
-    </a>
-  </p>
-  
-  ### 💬 **Toujours ouvert aux opportunités !**
-  
-  <p>
-    <img src="https://img.shields.io/badge/💼-Collaborations-3B82F6?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1E40AF" alt="Collaborations"/>
-    <img src="https://img.shields.io/badge/🚀-Projets_Innovants-6366F1?style=for-the-badge&logo=rocket&logoColor=white&labelColor=4338CA" alt="Projets"/>
-    <img src="https://img.shields.io/badge/🎯-Défis_Techniques-8B5CF6?style=for-the-badge&logo=target&logoColor=white&labelColor=7C3AED" alt="Défis"/>
-  </p>
-  
-</div>
-
----
-
 ## 🎭 **Citation Inspirante**
 
 <div align="center">
