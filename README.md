@@ -1,19 +1,16 @@
 # 👋🏾 Salut ! Je suis **Sidy Mohamed Saizonou** 
 
-<div align="center">
+<div align="center">Add commentMore actions
   
-  <!-- Header animé avec SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=💻+Développeur+Full-Stack+Passionné;🚀+Cofondateur+de+SenDev+Vision;⚡+Expert+en+APIs+RESTful;🎯+Innovation+%26+Excellence" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+Passionné;Cofondateur+SenDev+Vision;API+REST+Architect;Innovation+%26+Excellence)
   
-  <!-- GIF animé codeur -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
   
-  <!-- Badges animés -->
-  <p>
-    <img src="https://img.shields.io/badge/🎓-Diplômé_en_Génie_Logiciel-3B82F6?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1E40AF" alt="Diplôme"/>
-    <img src="https://img.shields.io/badge/👨🏾‍💻-Full_Stack_Dev-6366F1?style=for-the-badge&logo=code&logoColor=white&labelColor=4338CA" alt="Full Stack"/>
-    <img src="https://img.shields.io/badge/💼-Cofondateur_SenDev-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=7C3AED" alt="Cofondateur"/>
-  </p>
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://sms-12-portfolio.onrender.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidy-mohamed-saizonou-4655b4262)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsaizonou86@gmail.com)
+  [![Phone](https://img.shields.io/badge/📱_+221_76_182_36_98-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221761823698)
+
   
   <!-- Statistiques GitHub animées -->
   <img src="https://github-readme-stats.vercel.app/api?username=sidymohamed12&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=6366F1&text_color=ffffff&border_color=3B82F6&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
@@ -30,7 +27,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Innovation GIF"/>
 </div>
----Add commentMore actions
 
 ## 💫 À Propos de Moi
 
