@@ -34,8 +34,7 @@
 
 ## 💫 À Propos de Moi
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 🎓 **Diplômé en Génie Logiciel** avec une passion ardente pour l'innovation technologique
@@ -57,14 +56,14 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"/><br/>
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100"/><br/>
         <b>🚀 Backend Development</b><br/>
         <i>Spring Boot Mastery</i><br/>
         <i>Microservices Architecture</i><br/>
         <i>Database Design & Optimization</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/><br/>
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/><br/>
         <b>🎨 Frontend Development</b><br/>
         <i>Angular Expertise</i><br/>
         <i>Responsive UI/UX</i><br/>
