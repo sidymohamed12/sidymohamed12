@@ -35,17 +35,56 @@
 
 ## 🚀 **À Propos de Moi**
 
-```javascript
-const sidyMohamed = {
-    nom: "Sidy Mohamed Saizonou",
-    role: "Développeur Full-Stack & Entrepreneur Tech",
-    formation: "Génie Logiciel 🎓",
-    entreprise: "Cofondateur @ SenDev Vision 💼",
-    passion: ["Innovation", "APIs RESTful", "Solutions Scalables"],
-    citation: "Transformer les idées en réalité digitale",
-    localisation: "Dakar, Sénégal 🇸🇳",
-    statut: "Disponible pour des projets passionnants ✨"
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="About Me GIF"/>
+</div>
+
+<div align="center">
+  
+  ### 👨🏾‍💻 **Qui suis-je ?**
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🎓-Diplômé_en_Génie_Logiciel-3B82F6?style=for-the-badge&logoColor=white&labelColor=1E40AF" alt="Formation"/><br/>
+        <img src="https://img.shields.io/badge/💼-Cofondateur_SenDev_Vision-6366F1?style=for-the-badge&logoColor=white&labelColor=4338CA" alt="Entreprise"/><br/>
+        <img src="https://img.shields.io/badge/🌍-Dakar,_Sénégal-8B5CF6?style=for-the-badge&logoColor=white&labelColor=7C3AED" alt="Localisation"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🚀-Full_Stack_Developer-FF6B6B?style=for-the-badge&logoColor=white&labelColor=E53E3E" alt="Role"/><br/>
+        <img src="https://img.shields.io/badge/⚡-Expert_APIs_RESTful-4ECDC4?style=for-the-badge&logoColor=white&labelColor=319795" alt="Spécialité"/><br/>
+        <img src="https://img.shields.io/badge/✨-Innovation_&_Excellence-FFD93D?style=for-the-badge&logoColor=black&labelColor=D69E2E" alt="Passion"/>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+```typescript
+interface DeveloperProfile {
+  name: string;
+  role: string;
+  company: string;
+  specialties: string[];
+  philosophy: string;
+  currentStatus: string;
+}
+
+const sidyMohamed: DeveloperProfile = {
+  name: "Sidy Mohamed Saizonou",
+  role: "Full-Stack Developer & Tech Entrepreneur",
+  company: "Cofondateur @ SenDev Vision",
+  specialties: [
+    "🌐 Architecture Microservices",
+    "⚡ APIs RESTful Performantes", 
+    "🎨 Interfaces Utilisateur Modernes",
+    "🔒 Solutions Sécurisées & Scalables"
+  ],
+  philosophy: "Transformer les idées en réalité digitale 🚀",
+  currentStatus: "Disponible pour des projets innovants ✨"
 };
+
+console.log("Prêt à créer l'extraordinaire ! 💫");
 ```
 
 <div align="center">
@@ -157,53 +196,7 @@ const sidyMohamed = {
   </table>
 </div>
 
----
 
-## 🎯 **Projets Phares**
-
-<div align="center">
-  
-  ### 🏢 **SenDev Vision Platform**
-  *Plateforme de développement digital innovante*
-  
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Project Demo"/>
-  
-  **🔧 Technologies:** Spring Boot • Angular • PostgreSQL • REST API • Tailwind CSS
-  
-  ✨ **Fonctionnalités:**
-  - 🏗️ Architecture microservices avec Spring Boot
-  - 🎨 Frontend Angular avec Tailwind CSS  
-  - 🔐 APIs RESTful sécurisées
-  - ☁️ Déploiement cloud scalable
-  - 📊 Dashboard analytics en temps réel
-  
-  ---
-  
-  ### 💼 **Portfolio Personnel**
-  *Vitrine de mes compétences et réalisations*
-  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Portfolio Demo"/>
-  
-  **🔧 Technologies:** Angular • TypeScript • Tailwind CSS • REST API
-  
-  🌐 **[Voir le Portfolio](https://sms-12-portfolio.onrender.com)**
-  
-  ---
-  
-  ### 🔌 **RESTful API Suite**
-  *Collection d'APIs performantes et sécurisées*
-  
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="API Demo"/>
-  
-  **🔧 Technologies:** Spring Boot • JWT • PostgreSQL • Docker
-  
-  ⚡ **Performances:**
-  - 🚀 Temps de réponse < 100ms
-  - 🔒 Sécurité OAuth2 & JWT
-  - 📈 Scalabilité horizontale
-  - 📝 Documentation Swagger complète
-  
-</div>
 
 ---
 
