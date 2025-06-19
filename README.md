@@ -23,19 +23,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidymohamed12&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidymohamed12&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidymohamed12&theme=react&hide_border=true&background=0D1117"/>
-</div>
-
----
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+Passionné;Cofondateur+SenDev+Vision;Innovation+%26+Excellence)
@@ -165,8 +152,14 @@
 
 <div align="center">
   
-  <!-- Graphique des langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidymohamed12&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&text_color=ffffff&border_color=3B82F6&hide_border=false&langs_count=8" alt="Top Languages" width="48%" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidymohamed12&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidymohamed12&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidymohamed12&theme=react&hide_border=true&background=0D1117"/>
+</div>
   
   <!-- Graphique de contribution -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidymohamed12&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=6366F1&point=8B5CF6&area=true&hide_border=false" alt="Contribution Graph" width="100%" />
