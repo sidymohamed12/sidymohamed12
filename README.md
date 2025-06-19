@@ -30,62 +30,23 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Innovation GIF"/>
 </div>
+---Add commentMore actions
+
+## 💫 À Propos de Moi
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+🎓 **Diplômé en Génie Logiciel** avec une passion ardente pour l'innovation technologique
+
+👨🏾‍💻 **Développeur Full-Stack** spécialisé dans la création d'applications web modernes et d'APIs RESTful performantes
+
+💼 **Cofondateur de SenDev Vision** - Transforming ideas into digital reality
+
+🌟 **Vision** : "Le code n'est pas juste une suite d'instructions, c'est l'art de transformer des idées en solutions qui impactent positivement la vie des gens."
+
+<br clear="both"/>
 
 ---
-
-## 🚀 **À Propos de Moi**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="About Me GIF"/>
-</div>
-
-<div align="center">
-  
-  ### 👨🏾‍💻 **Qui suis-je ?**
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎓-Diplômé_en_Génie_Logiciel-3B82F6?style=for-the-badge&logoColor=white&labelColor=1E40AF" alt="Formation"/><br/>
-        <img src="https://img.shields.io/badge/💼-Cofondateur_SenDev_Vision-6366F1?style=for-the-badge&logoColor=white&labelColor=4338CA" alt="Entreprise"/><br/>
-        <img src="https://img.shields.io/badge/🌍-Dakar,_Sénégal-8B5CF6?style=for-the-badge&logoColor=white&labelColor=7C3AED" alt="Localisation"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🚀-Full_Stack_Developer-FF6B6B?style=for-the-badge&logoColor=white&labelColor=E53E3E" alt="Role"/><br/>
-        <img src="https://img.shields.io/badge/⚡-Expert_APIs_RESTful-4ECDC4?style=for-the-badge&logoColor=white&labelColor=319795" alt="Spécialité"/><br/>
-        <img src="https://img.shields.io/badge/✨-Innovation_&_Excellence-FFD93D?style=for-the-badge&logoColor=black&labelColor=D69E2E" alt="Passion"/>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-```typescript
-interface DeveloperProfile {
-  name: string;
-  role: string;
-  company: string;
-  specialties: string[];
-  philosophy: string;
-  currentStatus: string;
-}
-
-const sidyMohamed: DeveloperProfile = {
-  name: "Sidy Mohamed Saizonou",
-  role: "Full-Stack Developer & Tech Entrepreneur",
-  company: "Cofondateur @ SenDev Vision",
-  specialties: [
-    "🌐 Architecture Microservices",
-    "⚡ APIs RESTful Performantes", 
-    "🎨 Interfaces Utilisateur Modernes",
-    "🔒 Solutions Sécurisées & Scalables"
-  ],
-  philosophy: "Transformer les idées en réalité digitale 🚀",
-  currentStatus: "Disponible pour des projets innovants ✨"
-};
-
-console.log("Prêt à créer l'extraordinaire ! 💫");
-```
 
 <div align="center">
   
