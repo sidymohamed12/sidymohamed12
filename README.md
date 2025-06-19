@@ -40,15 +40,17 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Innovation GIF"/>
 </div>
 
----Add commentMore actions
+---
 
 ## 💫 À Propos de Moi
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
+
+
 🎓 **Diplômé en Génie Logiciel** avec une passion ardente pour l'innovation technologique
 
-👨🏾‍💻 **Développeur Full-Stack** spécialisé dans la création d'applications web modernes et d'APIs RESTful performantes
+👨🏾‍💻 **Développeur Full-Stack** spécialisé dans la création d'applications web modernes
 
 💼 **Cofondateur de SenDev Vision** - Transforming ideas into digital reality
 
