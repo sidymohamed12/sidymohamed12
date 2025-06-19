@@ -169,16 +169,7 @@
   </table>
 </div>
 
-## 🎭 **Citation Inspirante**
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Inspiration GIF"/>
-  
-  ### 💫 *"Le succès n'est pas final, l'échec n'est pas fatal : c'est le courage de continuer qui compte."*
-  **- Winston Churchill**
-  
-  ---
+---
   
   <img src="https://komarev.com/ghpvc/?username=sidymohamed12&label=Visiteurs%20du%20Profil&color=3B82F6&style=for-the-badge&logo=github" alt="Profile Views"/>
   
