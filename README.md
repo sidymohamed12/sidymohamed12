@@ -27,8 +27,6 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+Passionné;Cofondateur+SenDev+Vision;Innovation+%26+Excellence)
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
-  
   ### 🌐 **Mes Réseaux & Contacts**
   
   <p>
@@ -84,7 +82,6 @@
 
 ---
 
-## 💻 **Stack Technologique**
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 💻 ***Compétences Techniques***
 
 <div align="center">
@@ -186,12 +183,10 @@
 
 **⭐ N'hésitez pas à explorer mes repositories et à me contacter pour des collaborations passionnantes !**
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=sidymohamed12&color=667eea&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
+[![GitHub stars](https://img.shields.io/github/stars/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,5,6,7&height=100&section=footer&text=🚀%20Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer">
 </div>
 
 ---
@@ -215,4 +210,10 @@
 
 *"Toujours prêt pour de nouveaux défis et collaborations passionnantes !"* ✨
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,5,6,7&height=100&section=footer&text=🚀%20Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer">
 </div>
