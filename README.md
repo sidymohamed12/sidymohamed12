@@ -6,10 +6,22 @@
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://sms-12-portfolio.onrender.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidy-mohamed-saizonou-4655b4262)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsaizonou86@gmail.com)
-  [![Phone](https://img.shields.io/badge/📱_+221_76_182_36_98-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221761823698)
+  ### 🌐 **Mes Réseaux & Contacts**
+  
+  <p>
+    <a href="https://sms-12-portfolio.onrender.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sidy-mohamed-saizonou-4655b4262" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:mohamedsaizonou86@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+    </a>
+    <a href="tel:+221761823698">
+      <img src="https://img.shields.io/badge/📱_Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Téléphone"/>
+    </a>
+  </p>
 
   
   <!-- Statistiques GitHub animées -->
