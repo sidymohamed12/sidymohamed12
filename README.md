@@ -15,10 +15,10 @@
     <a href="https://www.linkedin.com/in/sidy-mohamed-saizonou-4655b4262" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
     </a>
-    <a href="mailto:mohamedsaizonou86@gmail.com">
+    <a href="mailto:mohamedsaizonou86@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
     </a>
-    <a href="tel:+221761823698">
+    <a href="https://wa.me/+221761823698" target="_blank">
       <img src="https://img.shields.io/badge/📱_Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Téléphone"/>
     </a>
   </p>
