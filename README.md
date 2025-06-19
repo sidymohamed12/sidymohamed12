@@ -170,7 +170,7 @@
 </div>
 
 ---
-  
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sidymohamed12&label=Visiteurs%20du%20Profil&color=3B82F6&style=for-the-badge&logo=github" alt="Profile Views"/>
   
   ⭐ **N'hésitez pas à explorer mes repositories et à me contacter pour des collaborations passionnantes !**
