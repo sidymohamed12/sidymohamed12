@@ -159,19 +159,6 @@
 </div>
 
 ---
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sidymohamed12&color=667eea&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
-[![GitHub stars](https://img.shields.io/github/stars/sidymohamed12?style=flat-square&color=667eea)](https://github.com/sidymohamed12)
-  
-  ⭐ **N'hésitez pas à explorer mes repositories et à me contacter pour des collaborations passionnantes !**
-  
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100" alt="Thank you GIF"/>
-  
-</div>
-
----
 
 <div align="center">
 
