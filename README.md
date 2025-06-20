@@ -8,6 +8,8 @@
   
 </div>
 
+---
+
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Salut, je suis Sidy Mohamed !
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
