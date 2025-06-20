@@ -81,8 +81,9 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidymohamed12&theme=react&hide_border=true&background=0D1117"/>
   
-  <!-- Graphique de contribution -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidymohamed12&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=6366F1&point=8B5CF6&area=true&hide_border=false" alt="Contribution Graph" width="100%" />
+
+  <br>
   
   <img src="https://github-profile-trophy.vercel.app/?username=sidymohamed12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
