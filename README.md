@@ -2,6 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Sidy%20Mohamed%20SAIZONOU&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Innovator&descAlignY=51&descAlign=50)
 
+---
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+Passionné;Cofondateur+SenDev+Vision;Innovation+%26+Excellence)
+  
 </div>
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Salut, je suis Sidy Mohamed !
@@ -20,14 +24,6 @@
 > *"Le code n'est pas juste une suite d'instructions, c'est l'art de transformer des idées en solutions qui impactent positivement la vie des gens."*
 
 <br><br>
-
----
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+Passionné;Cofondateur+SenDev+Vision;Innovation+%26+Excellence)
-  
-</div>
 
 ---
 
