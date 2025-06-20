@@ -31,40 +31,6 @@
 
 ---
 
-<div align="center">
-  
-  ### 🎯 **Mes Domaines d'Excellence**
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100"/><br/>
-        <b>🚀 Backend Development</b><br/>
-        <i>Spring Boot Mastery</i><br/>
-        <i>Microservices Architecture</i><br/>
-        <i>Database Design & Optimization</i>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"/><br/>
-        <b>🎨 Frontend Development</b><br/>
-        <i>Angular Expertise</i><br/>
-        <i>Responsive UI/UX</i><br/>
-        <i>Modern CSS Frameworks</i>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/><br/>
-        <b>🔌 API Development</b><br/>
-        <i>RESTful API Design</i><br/>
-        <i>API Security & Authentication</i><br/>
-        <i>Performance Optimization</i>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 💻 ***Compétences Techniques***
 
 <div align="center">
