@@ -3,7 +3,6 @@
     <radialGradient id="glow"><stop offset="0" stop-color="#22d3ee" stop-opacity=".2"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
     <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#2dd4bf" stroke-opacity=".07"/></pattern>
     <clipPath id="c"><rect width="590" height="236" rx="16"/></clipPath>
-    
     <style>.m{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
       .sh{animation:sh 2.2s ease-in-out infinite}@keyframes sh{0%,100%{opacity:.3}50%{opacity:.8}}
       .rv{opacity:0;animation:rv .5s ease-out forwards}@keyframes rv{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}

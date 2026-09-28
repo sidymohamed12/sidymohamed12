@@ -1,22 +1,24 @@
 #!/usr/bin/env python3
 """
-Génère dist/telemetry.svg : tes statistiques GitHub (dépôts et contributions privés inclus
-si le secret GH_STATS_TOKEN est fourni). Exécuté par .github/workflows/profile.yml.
+telemetry.py → dist/telemetry.svg
+Statistiques GitHub (contributions, dépôts, étoiles, séries, activité mensuelle, langages),
+dépôts et contributions privés inclus si GH_TOKEN est un token personnel.
+Exécuté toutes les 6 h par .github/workflows/profile.yml, qui publie dist/ sur la branche « output ».
 
-Aucune dépendance : Python 3 standard uniquement.
-Test local sans réseau :  python3 .github/scripts/build_profile.py --mock
+    GH_TOKEN=ghp_xxx python generators/telemetry.py     # vraies données
+    python generators/telemetry.py --mock               # données fictives, sans réseau (pour tester le design)
+
+Python standard uniquement, aucune dépendance.
 """
-import datetime as dt, json, os, pathlib, sys, urllib.request
+import datetime as dt, json, os, sys, urllib.request
 
-ROOT = pathlib.Path(__file__).resolve().parents[2]
+from _common import FONT, P, ROOT
+
 DIST = ROOT / "dist"
 LOGIN = os.environ.get("GH_LOGIN", "sidymohamed12")
 TOKEN = os.environ.get("GH_TOKEN", "")
 MOCK = "--mock" in sys.argv
 
-FONT = "'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace"
-P = dict(bg="#070b12", panel="#0b111b", line="#1d2b3c", ink="#e8f1f8", text="#b4c4d4", muted="#7c8ea3",
-         faint="#4d6075", a1="#2dd4bf", a2="#22d3ee", a3="#60a5fa", deep="#5eead4", ok="#34d399")
 MONTHS = ["JAN", "FÉV", "MAR", "AVR", "MAI", "JUN", "JUL", "AOÛ", "SEP", "OCT", "NOV", "DÉC"]
 
 
@@ -48,7 +50,7 @@ def fetch():
     node, decl = owner_node()
     args = f"({decl}, $after: String)" if decl else "($after: String)"
     q_repos = f"""query{args} {{ u: {node} {{
-        createdAt avatarUrl(size: 320)
+        createdAt
         repositories(ownerAffiliations: OWNER, isFork: false, first: 100, after: $after) {{
           totalCount pageInfo {{ hasNextPage endCursor }}
           nodes {{ isPrivate stargazerCount
@@ -97,7 +99,7 @@ def mock():
     repos = [{"isPrivate": i % 3 == 0, "stargazerCount": i % 4,
               "languages": {"edges": [{"size": s * (1 + i % 3), "node": {"name": n, "color": c}} for n, c, s in langs[i % 3:i % 3 + 4]]}}
              for i in range(38)]
-    return {"createdAt": "2023-11-05T00:00:00Z", "avatarUrl": ""}, repos, days
+    return {"createdAt": "2023-11-05T00:00:00Z"}, repos, days
 
 
 # ─────────────────────────── calculs ───────────────────────────
@@ -150,7 +152,7 @@ def telemetry_svg(s):
     for i, (lab, val, sub, ic) in enumerate(tiles):
         x = x0 + i * (tw + gap)
         out.append(f'''<g class="in" style="animation-delay:{.15 + i * .12:.2f}s">
-      <rect x="{x}" y="62" width="{tw}" height="108" rx="12" fill="#0e1723" stroke="{P["line"]}"/>
+      <rect x="{x}" y="62" width="{tw}" height="108" rx="12" fill="{P["chip"]}" stroke="{P["line"]}"/>
       <rect x="{x}" y="62" width="4" height="108" rx="2" fill="url(#acc)"/>
       <text x="{x + 22}" y="90" class="m lab">{lab}</text>
       <text x="{x + 22}" y="134" class="m big">{val}</text>
@@ -160,7 +162,7 @@ def telemetry_svg(s):
     </g>''')
     # barres mensuelles
     bx, by, bw, bh = 24, 200, 660, 176
-    out.append(f'<rect x="{bx}" y="{by}" width="{bw}" height="{bh}" rx="12" fill="#0e1723" stroke="{P["line"]}"/>')
+    out.append(f'<rect x="{bx}" y="{by}" width="{bw}" height="{bh}" rx="12" fill="{P["chip"]}" stroke="{P["line"]}"/>')
     out.append(f'<text x="{bx + 20}" y="{by + 26}" class="m lab">CONTRIBUTIONS · 12 DERNIERS MOIS</text>')
     mx = max(v for _, v in s["months"]) or 1
     colw = (bw - 40) / 12
@@ -173,7 +175,7 @@ def telemetry_svg(s):
         out.append(f'<text x="{x + (colw - 16) / 2:.1f}" y="{base + 18}" text-anchor="middle" class="m mo">{MONTHS[m - 1]}</text>')
     # langages
     lx, lw = bx + bw + 16, W - 24 - (bx + bw + 16)
-    out.append(f'<rect x="{lx}" y="{by}" width="{lw}" height="{bh}" rx="12" fill="#0e1723" stroke="{P["line"]}"/>')
+    out.append(f'<rect x="{lx}" y="{by}" width="{lw}" height="{bh}" rx="12" fill="{P["chip"]}" stroke="{P["line"]}"/>')
     out.append(f'<text x="{lx + 20}" y="{by + 26}" class="m lab">LANGAGES · TOUS MES DÉPÔTS</text>')
     out.append(f'<clipPath id="lc"><rect x="{lx + 20}" y="{by + 44}" width="{lw - 40}" height="12" rx="6"/></clipPath><g clip-path="url(#lc)"><rect x="{lx + 20}" y="{by + 44}" width="{lw - 40}" height="12" fill="{P["line"]}"/>')
     cx, shown = lx + 20, sum(p for _, _, p in s["langs"]) or 1
@@ -228,7 +230,8 @@ def main():
     user, repos, days = mock() if MOCK else fetch()
     stats = compute(repos, days)
     DIST.mkdir(exist_ok=True)
-    (DIST / "telemetry.svg").write_text(telemetry_svg(stats))
+    (DIST / "telemetry.svg").write_text(telemetry_svg(stats), encoding="utf-8")
+    print(f"✔ {(DIST / 'telemetry.svg').relative_to(ROOT)}")
     print(json.dumps({k: v for k, v in stats.items() if k not in ("months", "langs")}, ensure_ascii=False))
 
 

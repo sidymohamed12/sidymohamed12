@@ -3,7 +3,6 @@
     <radialGradient id="glow"><stop offset="0" stop-color="#22d3ee" stop-opacity=".2"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
     <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#2dd4bf" stroke-opacity=".07"/></pattern>
     <clipPath id="c"><rect width="590" height="236" rx="16"/></clipPath>
-    
     <style>.m{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
       .sh{animation:sh 2.2s ease-in-out infinite}@keyframes sh{0%,100%{opacity:.3}50%{opacity:.8}}
       .rv{opacity:0;animation:rv .5s ease-out forwards}@keyframes rv{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
@@ -19,11 +18,8 @@
       <text x="14" y="22" font-size="9.5" letter-spacing="2" fill="#7c8ea3">TOKEN.JWT</text>
       <g transform="translate(142 10)"><path d="M8 2a5 5 0 0 0-4.6 7L0 12.4V16h3.6v-2h2v-2h2l1-1A5 5 0 1 0 8 2zm1.2 3.2a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4z" fill="#2dd4bf"/></g>
       <path d="M0 32H172" stroke="#1d2b3c"/>
-      <text x="14" y="54" font-size="11" fill="#fb7185" class="rv" style="animation-delay:.4s">eyJhbGciOiJIUzI1</text>
-      <text x="14" y="72" font-size="11" fill="#5eead4" class="rv" style="animation-delay:.9s">eyJzdWIiOiJzbXMi</text>
-      <text x="14" y="90" font-size="11" fill="#60a5fa" class="rv" style="animation-delay:1.4s">SflKxwRJSMeKKF2Q</text>
-      <text x="14" y="54" dx="108" font-size="11" fill="#4d6075" class="rv" style="animation-delay:.4s">.</text>
-      <text x="14" y="72" dx="108" font-size="11" fill="#4d6075" class="rv" style="animation-delay:.9s">.</text>
+      <text x="14" y="54" font-size="11" fill="#fb7185" class="rv" style="animation-delay:0.4s">eyJhbGciOiJIUzI1</text><text x="14" y="72" font-size="11" fill="#5eead4" class="rv" style="animation-delay:0.9s">eyJzdWIiOiJzbXMi</text><text x="14" y="90" font-size="11" fill="#60a5fa" class="rv" style="animation-delay:1.4s">SflKxwRJSMeKKF2Q</text>
+      <text x="14" y="54" dx="108" font-size="11" fill="#4d6075" class="rv" style="animation-delay:0.4s">.</text><text x="14" y="72" dx="108" font-size="11" fill="#4d6075" class="rv" style="animation-delay:0.9s">.</text>
       <rect x="8" y="42" width="156" height="16" rx="3" fill="#22d3ee" opacity=".12"><animate attributeName="y" values="42;60;78;42" dur="3s" begin="2s" repeatCount="indefinite"/></rect>
       <g class="pop" style="animation-delay:2s;transform-origin:86px 118px">
         <rect x="11" y="106" width="150" height="24" rx="12" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".5"/>

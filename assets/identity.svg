@@ -13,6 +13,7 @@
       @keyframes bar{from{transform:scaleX(.25)}to{transform:scaleX(1)}}
     </style>
   </defs>
+  <!-- terminal -->
   <rect x=".75" y=".75" width="758.5" height="358.5" rx="14" fill="#0b111b" stroke="#1d2b3c" stroke-width="1.5"/>
   <rect x="2" y="2" width="756" height="356" rx="13" fill="url(#dots)"/>
   <path d="M1 44H759" stroke="#1d2b3c"/>
@@ -28,10 +29,10 @@
     <text x="46" y="256" class="ln" fill="#b4c4d4" style="animation-delay:2.5s"><tspan fill="#5eead4">genie-logiciel/</tspan><tspan fill="#4d6075"> (diplômé)</tspan>  <tspan fill="#5eead4">professeur/</tspan>  <tspan fill="#5eead4">dev-fullstack/</tspan></text>
     <text x="28" y="292" class="ln" style="animation-delay:3.0s"><tspan fill="#2dd4bf">❯</tspan><tspan fill="#e8f1f8"> echo $BASE</tspan></text>
     <text x="46" y="318" class="ln" fill="#b4c4d4" style="animation-delay:3.4s">Dakar, Sénégal <tspan fill="#4d6075">· UTC+0</tspan></text>
-    
   </g>
   <rect x="28" y="334" width="9" height="16" fill="#2dd4bf" class="blink" opacity="0"><set attributeName="opacity" to="1" begin="3.8s"/></rect>
 
+  <!-- now running -->
   <rect x="784.75" y=".75" width="414.5" height="358.5" rx="14" fill="#0b111b" stroke="#1d2b3c" stroke-width="1.5"/>
   <text x="808" y="28" class="m" font-size="12" letter-spacing="2.5" fill="#7c8ea3">NOW.RUNNING</text>
   <circle cx="1172" cy="24" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
@@ -41,6 +42,5 @@
     <g class="ln" style="animation-delay:0.9s"><text x="808" y="160" class="lab">▸ SHIP</text><text x="808" y="182" class="val" style="fill:#e8f1f8">jwt-toolkit</text><text x="808" y="200" class="sub">dépendance publiée sur Maven &amp; GitHub</text><rect x="1080" y="154" width="96" height="4" rx="2" fill="#2dd4bf" fill-opacity=".15"/><rect x="1080" y="154" width="96" height="4" rx="2" fill="url(#acc)" class="bar" style="animation-delay:0.6s"/></g>
     <g class="ln" style="animation-delay:1.3s"><text x="808" y="240" class="lab">▸ LEARN</text><text x="808" y="262" class="val" style="fill:#e8f1f8">Architecture &amp; Design</text><text x="808" y="280" class="sub">architecture · design patterns · CI/CD</text><rect x="1080" y="234" width="96" height="4" rx="2" fill="#2dd4bf" fill-opacity=".15"/><rect x="1080" y="234" width="96" height="4" rx="2" fill="url(#acc)" class="bar" style="animation-delay:1.2s"/></g>
     <g class="ln" style="animation-delay:1.7s"><text x="808" y="320" class="lab">▸ SEEK</text><text x="808" y="342" class="val" style="fill:#34d399">Freelance &amp; collaborations</text></g>
-    
   </g>
 </svg>

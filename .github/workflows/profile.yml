@@ -8,7 +8,7 @@ on:
   workflow_dispatch: # bouton « Run workflow » dans l'onglet Actions
   push:
     branches: [main, master]
-    paths: ["assets/**", ".github/**"]
+    paths: ["assets/**", "generators/**", ".github/**"]
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
           # Sans lui, seules les données publiques sont comptées.
           GH_TOKEN: ${{ secrets.GH_STATS_TOKEN || github.token }}
           GH_LOGIN: ${{ github.repository_owner }}
-        run: python3 .github/scripts/build_profile.py
+        run: python3 generators/telemetry.py
 
       - uses: Platane/snk/svg-only@v3 # version JS : pas de dossier verrouillé par Docker
         with:
