@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="72" viewBox="0 0 288 72" role="img" aria-label="WHATSAPP — +221 76 182 36 98">
+  <defs><style>.m{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .sweep{animation:sw 4s ease-in-out infinite}@keyframes sw{0%{transform:translateX(-120px)}60%,100%{transform:translateX(320px)}}</style>
+  <linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee" stop-opacity=".09"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+  <clipPath id="c"><rect width="288" height="72" rx="12"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="288" height="72" fill="#0b111b"/>
+    <rect width="3" height="72" fill="#34d399"/>
+    <rect width="100" height="72" fill="url(#s)" class="sweep"/>
+    <rect x="18" y="16" width="40" height="40" rx="10" fill="#34d399" fill-opacity=".1"/>
+    <g transform="translate(26 24)"><path d="M12 3.5a8.5 8.5 0 0 0 -7.3 12.8l-1.2 4.2l4.3 -1.1a8.5 8.5 0 1 0 4.2 -15.9M9 8.5c.3-.6.6-.6 1-.6l.6 .1l1 2.2l-.7 .9c.5 1.1 1.5 2 2.6 2.6l.9-.8l2.1 1l-.1.7c-.3.8-1.2 1.2-2 1.1c-3-.5-5.6-3.1-6-6c0-.5.2-.9.6-1.2" fill="none" stroke="#34d399" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/></g>
+    <text x="72" y="33" class="m" font-size="13" font-weight="800" letter-spacing="2.5" fill="#e8f1f8">WHATSAPP</text>
+    <text x="72" y="52" class="m" font-size="11" fill="#7c8ea3">+221 76 182 36 98</text>
+    <text x="268" y="42" text-anchor="end" class="m" font-size="16" fill="#34d399">↗</text>
+  </g>
+  <rect x=".75" y=".75" width="286.5" height="70.5" rx="12" fill="none" stroke="#1d2b3c" stroke-width="1.5"/>
+</svg>

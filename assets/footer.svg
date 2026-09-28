@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Fin de transmission — merci pour votre visite">
+  <defs>
+    <linearGradient id="wv" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/><stop offset=".2" stop-color="#2dd4bf"/><stop offset=".55" stop-color="#22d3ee"/><stop offset=".8" stop-color="#60a5fa"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></linearGradient>
+    <style>.m{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}.blink{animation:bl 1.2s steps(1) infinite}@keyframes bl{50%{opacity:0}}</style>
+  </defs>
+  <path fill="none" stroke="url(#wv)" stroke-width="2" d="M0 40 H440 L460 40 L470 20 L482 62 L494 8 L506 70 L518 28 L528 40 H1200">
+    <animate attributeName="d" dur="2.4s" repeatCount="indefinite" values="M0 40 H440 L460 40 L470 20 L482 62 L494 8 L506 70 L518 28 L528 40 H1200;M0 40 H660 L680 40 L690 20 L702 62 L714 8 L726 70 L738 28 L748 40 H1200;M0 40 H440 L460 40 L470 20 L482 62 L494 8 L506 70 L518 28 L528 40 H1200"/>
+  </path>
+  <text x="600" y="100" text-anchor="middle" class="m" font-size="13" letter-spacing="4" fill="#2dd4bf" font-weight="700">END OF TRANSMISSION<tspan class="blink"> _</tspan></text>
+  <text x="600" y="122" text-anchor="middle" class="m" font-size="11" letter-spacing="2" fill="#7c8ea3">merci pour votre visite · ⭐ si un repo vous plaît</text>
+</svg>

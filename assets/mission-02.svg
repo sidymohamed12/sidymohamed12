@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="236" viewBox="0 0 590 236" role="img" aria-label="Mission 02 — jwt-toolkit : librairie Java de JWT personnalisable, publiée sur Maven Central et GitHub Packages">
+  <defs><linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#22d3ee" stop-opacity=".2"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#2dd4bf" stroke-opacity=".07"/></pattern>
+    <clipPath id="c"><rect width="590" height="236" rx="16"/></clipPath>
+    
+    <style>.m{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+      .sh{animation:sh 2.2s ease-in-out infinite}@keyframes sh{0%,100%{opacity:.3}50%{opacity:.8}}
+      .rv{opacity:0;animation:rv .5s ease-out forwards}@keyframes rv{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+      .pop{opacity:0;animation:pop .5s cubic-bezier(.3,1.6,.5,1) forwards}@keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="590" height="236" fill="#0b111b"/>
+    <rect x="360" width="230" height="236" fill="url(#g)"/>
+    <circle cx="480" cy="110" r="140" fill="url(#glow)"/>
+    <g transform="translate(392 30)" class="m">
+      <rect width="172" height="140" rx="10" fill="#0e1723" stroke="#1d2b3c"/>
+      <text x="14" y="22" font-size="9.5" letter-spacing="2" fill="#7c8ea3">TOKEN.JWT</text>
+      <g transform="translate(142 10)"><path d="M8 2a5 5 0 0 0-4.6 7L0 12.4V16h3.6v-2h2v-2h2l1-1A5 5 0 1 0 8 2zm1.2 3.2a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4z" fill="#2dd4bf"/></g>
+      <path d="M0 32H172" stroke="#1d2b3c"/>
+      <text x="14" y="54" font-size="11" fill="#fb7185" class="rv" style="animation-delay:.4s">eyJhbGciOiJIUzI1</text>
+      <text x="14" y="72" font-size="11" fill="#5eead4" class="rv" style="animation-delay:.9s">eyJzdWIiOiJzbXMi</text>
+      <text x="14" y="90" font-size="11" fill="#60a5fa" class="rv" style="animation-delay:1.4s">SflKxwRJSMeKKF2Q</text>
+      <text x="14" y="54" dx="108" font-size="11" fill="#4d6075" class="rv" style="animation-delay:.4s">.</text>
+      <text x="14" y="72" dx="108" font-size="11" fill="#4d6075" class="rv" style="animation-delay:.9s">.</text>
+      <rect x="8" y="42" width="156" height="16" rx="3" fill="#22d3ee" opacity=".12"><animate attributeName="y" values="42;60;78;42" dur="3s" begin="2s" repeatCount="indefinite"/></rect>
+      <g class="pop" style="animation-delay:2s;transform-origin:86px 118px">
+        <rect x="11" y="106" width="150" height="24" rx="12" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".5"/>
+        <text x="86" y="122" text-anchor="middle" font-size="10.5" letter-spacing="1" fill="#34d399">✔ signature valide</text>
+      </g>
+    </g>
+    <g class="m">
+      <text x="32" y="44" font-size="11.5" letter-spacing="3" fill="#2dd4bf" font-weight="700">MISSION 02</text>
+      <text x="32" y="86" font-size="28" font-weight="800" fill="#e8f1f8">jwt-toolkit</text>
+      <text x="32" y="118" font-size="13.5" fill="#b4c4d4">Librairie Java open source, publiée</text><text x="32" y="139" font-size="13.5" fill="#b4c4d4">comme dépendance sur Maven Central</text><text x="32" y="160" font-size="13.5" fill="#b4c4d4">et GitHub Packages : JWT sur mesure.</text>
+      <g><rect x="32" y="180" width="115" height="28" rx="7" fill="#2dd4bf" fill-opacity=".08" stroke="#2dd4bf" stroke-opacity=".45"/><text x="89.5" y="198.5" text-anchor="middle" font-size="11.5" fill="#5eead4">Maven Central</text><rect x="155" y="180" width="130" height="28" rx="7" fill="#2dd4bf" fill-opacity=".08" stroke="#2dd4bf" stroke-opacity=".45"/><text x="220.0" y="198.5" text-anchor="middle" font-size="11.5" fill="#5eead4">GitHub Packages</text><rect x="293" y="180" width="101" height="28" rx="7" fill="#2dd4bf" fill-opacity=".08" stroke="#2dd4bf" stroke-opacity=".45"/><text x="343.5" y="198.5" text-anchor="middle" font-size="11.5" fill="#5eead4">Spring Boot</text></g>
+      <text x="558" y="214" text-anchor="end" font-size="11" letter-spacing="1.5" fill="#7c8ea3">voir le repo ↗</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="588.5" height="234.5" rx="16" fill="none" stroke="#1d2b3c" stroke-width="1.5"/>
+</svg>
