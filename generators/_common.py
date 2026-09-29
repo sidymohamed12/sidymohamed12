@@ -77,14 +77,15 @@ def chips_row(labels, x, y, size=12, pad=24, gap=10, cw_char=7.6):
 ICONS = json.loads((DATA / "icons.json").read_text(encoding="utf-8"))
 
 
-def icon(name, cx, cy, size=18):
-    """Icône centrée en (cx, cy). Clé = nom affiché dans data/icons.json."""
-    ic = ICONS[name]
+def icon(name, cx, cy, size=18, color=None):
+    """Icône centrée en (cx, cy). Clé = nom affiché dans data/icons.json. `color` remplace la couleur de marque."""
+    ic = dict(ICONS[name], **({"h": color} if color else {}))
     if "mono" in ic:  # pas d'icône officielle → monogramme
         return (f'<text x="{cx}" y="{cy + 4}" text-anchor="middle" class="m" font-size="11" '
                 f'font-weight="800" fill="{ic["h"]}">{esc(ic["mono"])}</text>')
-    return (f'<path transform="translate({cx - size / 2} {cy - size / 2}) scale({size / 24:.4f})" '
-            f'd="{ic["p"]}" fill="{ic["h"]}"/>')
+    vb, fr = ic.get("vb", 24), ic.get("fr")  # certaines icônes (devicon) sont dessinées en 128×128
+    return (f'<path transform="translate({cx - size / 2} {cy - size / 2}) scale({size / vb:.4f})" '
+            f'd="{ic["p"]}" fill="{ic["h"]}"' + (f' fill-rule="{fr}"' if fr else "") + '/>')
 
 
 def small_card(num, title, lines, chips, motif, aria, cta):
